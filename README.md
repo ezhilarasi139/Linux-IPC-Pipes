@@ -1,8 +1,11 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-
 # Ex03-Linux IPC - Pipes
+
+## NAME : EZHILARASI N
+## REG NO : 212224040088
+## DATE : 28.8.2025
 
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
